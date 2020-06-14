@@ -1,18 +1,54 @@
+#quote{
+    color: royalblue;
+    
+ 
+}
+
+
+#header{
+    word-spacing: 1050px;
+}
+
 #SAT-Intro{
     text-align:center;
     text-shadow: aquamarine;
 }
 
+
 .intro{
     font-family: 'Times New Roman', Times, serif;
     color: chocolate;
     font-weight: 780;
+  
+   
+    
+}
+
+#header-act, .intro-act, #header2-act, .impact-act{
+    text-align:right;
+    display:block;
+}
+
+.intro-act{
+    color:chocolate;
+    font-weight: 780;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.impact-act{
+    color: chocolate;
+    font-weight: 780;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .impact{
     font-family: 'Times New Roman', Times, serif;
     color: chocolate;
     font-weight: 780;
+}
+
+.center{
+    text-align:center;
 }
 
 .help{
